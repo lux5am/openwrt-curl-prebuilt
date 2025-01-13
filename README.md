@@ -1,4 +1,4 @@
-<h1 align="center">openwrt-23.05 CURL HTTP/3 prebuilt packages</h1>
+<h1 align="center">openwrt-24.10 CURL HTTP/3 prebuilt packages</h1>
 <p align="center">
   <img width="200" src="https://camo.githubusercontent.com/dbd28ee76842c78a7114d06a44fb14d70ef6a9892463de18b3602ae14854e5e4/68747470733a2f2f6375726c2e73652f6c6f676f2f6375726c2d6c6f676f2e737667" />
 </p>
