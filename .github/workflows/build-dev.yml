@@ -40,6 +40,8 @@ jobs:
           git clone https://github.com/sbwml/package_libs_nghttp3 nghttp3
           # curl
           git clone https://github.com/sbwml/feeds_packages_net_curl curl
+          # libcurl
+          git clone https://github.com/sbwml/feeds_packages_net_curl libcurl
           # openssl 3.2
           git clone https://github.com/sbwml/package_libs_openssl -b openssl-3.2 openssl
 
