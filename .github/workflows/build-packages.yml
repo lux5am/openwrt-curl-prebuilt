@@ -5,6 +5,10 @@ on:
     types: started
   repository_dispatch:
     types: build
+  # run it manually
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * SUN"
 
 jobs:
   build:
